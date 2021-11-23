@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "nombre": "Maria",
+    "peso": 55
+  },
+  {
+    "id": 2,
+    "nombre": "Luca",
+    "peso": 78
+  },
+  {
+    "id": 3,
+    "nombre": "Juan",
+    "peso": 77
+  },
+  {
+    "id": 4,
+    "nombre": "Manuel",
+    "peso": 70
+  },
+  {
+    "id": 5,
+    "nombre": "Kiko",
+    "peso": 105
+  },
+  {
+    "id": 6,
+    "nombre": "Jorge",
+    "peso": 97
+  }
+
+]
